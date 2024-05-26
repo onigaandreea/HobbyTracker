@@ -1,2 +1,8 @@
 rootProject.name = 'HobbyTracker'
+include 'model'
+include 'persistence'
+include 'services'
+include 'networking'
+include 'server'
+include 'client'
 
